@@ -2,3 +2,12 @@
 
 # CORDEX FPS-SESA analyses
 Some analyses on CORDEX FPS-SESA data
+
+These data are restricted. If you are an FPS-SESA partner, you can register at http://meteo.unican.es/udg-tap and enrol in the FPS-SESA group.
+
+In order for these notebooks to work, add to this repository folder a `.netrc` file with the following plain text lines:
+```
+machine data.meteo.unican.es
+  login yourloginname
+  password yourpassword
+```
