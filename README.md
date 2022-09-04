@@ -1,5 +1,7 @@
 [![MyBinder](https://img.shields.io/badge/launch-MyBinder-33cc33)](https://mybinder.org/v2/gh/jesusff/pyclimenv/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fjesusff%252Ffps-sesa-analyses%26urlpath%3Dlab%252Ftree%252Ffps-sesa-analyses%252FWelcome.md%26branch%3Dmain)
 
+<img align="right" width="250" src="https://github.com/AEI-CORDyS/AEI-CORDyS.github.io/blob/main/micin-aei-cordys_en.png?raw=true">
+
 # CORDEX FPS-SESA analyses
 Some analyses on CORDEX FPS-SESA data
 
