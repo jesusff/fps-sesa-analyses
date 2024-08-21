@@ -1,0 +1,3 @@
+[submodule "CORDEX-CORE-WG"]
+	path = CORDEX-CORE-WG
+	url = git@github.com:FPS-URB-RCC/CORDEX-CORE-WG.git
